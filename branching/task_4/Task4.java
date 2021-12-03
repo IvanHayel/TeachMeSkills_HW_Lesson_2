@@ -1,13 +1,13 @@
 package branching.task_4;
 
+import java.util.Scanner;
+
 /*
  * For the entered number t (outside temperature) output
  * If t > –5, then output "Warmly".
  * If –5 >= t > –20, then output “Normal”.
  * If –20 >= t, then output “Cold”.
  */
-
-import java.util.Scanner;
 
 public class Task4 {
     public static void main(String[] args) {

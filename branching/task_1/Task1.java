@@ -1,11 +1,11 @@
 package branching.task_1;
 
+import java.util.Scanner;
+
 /*
  * Write a program to display the name of the season by the number of the month.
  * When solving, use the switch-case statement.
  */
-
-import java.util.Scanner;
 
 public class Task1 {
     public static void main(String[] args) {

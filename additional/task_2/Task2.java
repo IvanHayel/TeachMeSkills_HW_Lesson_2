@@ -1,5 +1,7 @@
 package additional.task_2;
 
+import java.util.Scanner;
+
 /*
  * For each month, the bank charges 7% of the amount to the deposit amount.
  * Write a program into which the user enters the deposit amount and the number of months.
@@ -7,8 +9,6 @@ package additional.task_2;
  * Use a for loop to calculate the amount including percent.
  * Let the amount of the deposit be of the float type.
  */
-
-import java.util.Scanner;
 
 public class Task2 {
     public static void main(String[] args) {

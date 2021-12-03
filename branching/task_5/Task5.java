@@ -1,11 +1,11 @@
 package branching.task_5;
 
-/*
- * По введенному номеру определить цвет радуги
- * (1 - красный, 4 – зеленый и т. д.)
- */
-
 import java.util.Scanner;
+
+/*
+ * Determine the color of the rainbow by the entered number
+ * (1 - red, 4 - green, etc.)
+ */
 
 public class Task5 {
     private static final int RED = 1;

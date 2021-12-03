@@ -1,11 +1,11 @@
 package branching.task_2;
 
+import java.util.Scanner;
+
 /*
  * Write a program to display the name of the season by the number of the month.
  * Use the if-else-if statement when solving.
  */
-
-import java.util.Scanner;
 
 public class Task2 {
     public static void main(String[] args) {

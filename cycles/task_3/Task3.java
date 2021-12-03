@@ -1,12 +1,12 @@
 package cycles.task_3;
 
+import java.util.Scanner;
+
 /*
  * Write a program where the user enters any positive integer.
  * And the program adds up all numbers from 1 to the number entered by the user.
  * Use the Scanner class to enter a number.
  */
-
-import java.util.Scanner;
 
 public class Task3 {
     public static void main(String[] args) {

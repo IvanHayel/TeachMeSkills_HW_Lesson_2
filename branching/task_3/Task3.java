@@ -1,12 +1,12 @@
 package branching.task_3;
 
+import java.util.Scanner;
+
 /*
  * Write a program that will take a number as input and output a message as an even number or not.
  * To determine the parity of a number,
  * use the operation of obtaining the remainder of the division - the operation looks like this: '% 2').
  */
-
-import java.util.Scanner;
 
 public class Task3 {
 
